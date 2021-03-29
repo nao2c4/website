@@ -1,3 +1,7 @@
+# リンク
+
+GitHub Pagesの作り方は[こちら](how-to-make-github-pages.md)
+
 # Profile
 
 - 菅野尚哉
